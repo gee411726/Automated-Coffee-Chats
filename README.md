@@ -1,5 +1,11 @@
 # Automated-Coffee-Chats
 
+
+Tech Stack:
+Google App Script
+JavaScript 
+Google APIs - People, Calendar
+
 Background: Our team wanted a way to automatically set up coffee chats between team members. The process of manually matching people based on certain 
 criteria became cumbersome especially as more team members were added and we started logging match histories to avoid repeats. It became impractical to continue
 updating manually. Thus an effort to fully automate this process was started and this code base is the result of that initiative.
