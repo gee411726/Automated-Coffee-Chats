@@ -1,4 +1,4 @@
-# Automated-Coffee-Chats
+# Automated-Coffee-Chats ![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
 
 
 ## Tech Stack:
